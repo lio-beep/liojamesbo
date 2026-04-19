@@ -116,12 +116,12 @@ My background spans full-stack web development, database-driven systems, WordPre
 - 💉 **Vaccination Tracking** — Log and monitor vaccination schedules and completion status per animal and farm
 - 🦠 **Disease Monitoring** — Record and flag disease incidents with status indicators and location tagging
 - 📄 **Report Generation** — Custom-built reporting module supporting PDF export, print view, and data import/export
-- 🔐 **Role-Based Access Control** — Custom-built authentication system with differentiated access for administrators, field officers, and veterinarians
+- 🔐 **Role-Based Access Control** — Custom-built authentication system with location-scoped access control; users are restricted to viewing only their assigned area on the map (e.g., a user assigned to Guiguinto can only see Guiguinto data), with differentiated roles for administrators, field officers, and veterinarians
 - 🎨 **Theme System** — Supports UI theming for customized display preferences across user roles
 
 **My Contributions:**
 - **Solely designed and built the entire map interface** using Leaflet.js — 7,000+ lines of custom JavaScript handling geo-rendering, layer control, and real-time location mapping
-- Built a full custom authentication and role-based access control system using Django without relying on third-party auth packages
+- Built a full custom authentication system with location-scoped role-based access control — restricting each user's map view to their assigned municipal area, implemented entirely in Django without third-party auth packages
 - Developed the complete reporting module including PDF export, print view, and data import/export functionality
 - Integrated Leaflet.js map data with Django views and PostgreSQL database
 - Collaborated with the development team on system architecture, testing, and deployment
