@@ -107,26 +107,27 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 ### 🗺️ Geospatial Farm Monitoring & Status Mapping System
 
-> A web-based monitoring platform developed during my internship that enables real-time tracking of livestock, farm health, and veterinary activities across multiple locations using interactive map visualization.
+> A web-based monitoring platform developed during my internship at the Provincial Information Technology Office, built with Django and Python. I was solely responsible for the interactive map system and reporting module within a collaborative development team.
 
-**Tech Stack:** `Python` `Django` `MySQL` `JavaScript` `HTML5` `Leaflet.js`
+**Tech Stack:** `Python` `Django` `PostgreSQL` `JavaScript` `Leaflet.js` `HTML5`
 
 **Key Features:**
-- 🗺️ **Interactive Map Visualization** — Geo-tagged farm and livestock locations rendered on an interactive map interface
-- 💉 **Vaccination Tracking** — Log and monitor vaccination schedules and completion status per animal/farm
+- 🗺️ **Interactive Map Visualization** — Fully custom-built geospatial map interface using Leaflet.js, spanning over 7,000 lines of code, rendering geo-tagged farm and livestock locations in real time
+- 💉 **Vaccination Tracking** — Log and monitor vaccination schedules and completion status per animal and farm
 - 🦠 **Disease Monitoring** — Record and flag disease incidents with status indicators and location tagging
-- 📄 **Report Generation** — Export summary reports of farm activity, vaccination coverage, and disease incidents
-- 🔐 **Role-Based Access Control** — Differentiated access for administrators, field officers, and veterinarians
+- 📄 **Report Generation** — Custom-built reporting module supporting PDF export, print view, and data import/export
+- 🔐 **Role-Based Access Control** — Custom-built authentication system with differentiated access for administrators, field officers, and veterinarians
 
 **My Contributions:**
-- Contributed to front-end development including the map interface and dashboard views
-- Assisted in implementing the vaccination and disease tracking modules
-- Integrated map data rendering with the backend database
-- Participated in system testing and bug fixing throughout the development cycle
+- **Solely designed and built the entire map interface** using Leaflet.js — 7,000+ lines of custom JavaScript handling geo-rendering, layer control, and real-time location mapping
+- Built a full custom authentication and role-based access control system using Django without relying on third-party auth packages
+- Developed the complete reporting module including PDF export, print view, and data import/export functionality
+- Integrated Leaflet.js map data with Django views and PostgreSQL database
+- Collaborated with the development team on system architecture, testing, and deployment
 
 **📸 Screenshots**
 
-> *Developed during internship. Screenshots and system details are withheld in compliance with data privacy policies of the organization.*
+> *Developed during internship at the Provincial Information Technology Office. Screenshots and system details are withheld in compliance with data privacy policies of the organization.*
 
 | Farm Map View | Vaccination Records | Report Module |
 |---|---|---|
