@@ -33,7 +33,10 @@ My background spans full-stack web development, database-driven systems, WordPre
 | **Languages** | HTML5, CSS3, JavaScript, PHP, C#, SQL |
 | **Databases** | MySQL |
 | **CMS & Tools** | WordPress, Git, GitHub |
-| **Dev Concepts** | OOP, MVC, Role-Based Access Control, REST APIs |
+| **Productivity & VA Tools** | Microsoft Excel, Airtable, Google Sheets, Google Docs |
+| **Design & Content** | Canva |
+| **AI Tools** | ChatGPT, Claude AI |
+| **Dev Concepts** | OOP, Role-Based Access Control |
 | **Other** | Basic SEO, Page Builders, Plugin Configuration |
 
 ---
