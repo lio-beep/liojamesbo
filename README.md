@@ -154,7 +154,7 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 > *Both sites were temporarily deployed and are now offline. UI documented via screenshots.*
 
-| Online Store Homepage | Product Page | Resume Site |
+| Online Store Homepage | Header | Resume Site |
 |---|---|---|
 | ![Store](./screenshots/onlinestorehomepage.png) | ![Header](./screenshots/header.png) | ![Resume](./screenshots/resume.png) |
 
