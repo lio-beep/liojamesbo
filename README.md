@@ -30,8 +30,10 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 | Category | Technologies |
 |---|---|
-| **Languages** | HTML5, CSS3, JavaScript, PHP, C#, SQL |
-| **Databases** | MySQL, PostgreSQL |
+| **Languages** | HTML5, JavaScript, PHP, C#, Python |
+| **Frameworks** | Django |
+| **Databases** | MySQL |
+| **Mapping** | Leaflet.js |
 | **CMS & Tools** | WordPress, Git, GitHub |
 | **Productivity & VA Tools** | Microsoft Excel, Airtable, Google Sheets, Google Docs |
 | **Design & Content** | Canva |
@@ -107,7 +109,7 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 > A web-based monitoring platform developed during my internship that enables real-time tracking of livestock, farm health, and veterinary activities across multiple locations using interactive map visualization.
 
-**Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML5` `CSS3` `Mapping Library (e.g., Leaflet.js)`
+**Tech Stack:** `Python` `Django` `MySQL` `JavaScript` `HTML5` `Leaflet.js`
 
 **Key Features:**
 - 🗺️ **Interactive Map Visualization** — Geo-tagged farm and livestock locations rendered on an interactive map interface
