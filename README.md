@@ -31,11 +31,11 @@ My background spans full-stack web development, database-driven systems, WordPre
 | Category | Technologies |
 |---|---|
 | **Languages** | HTML5, CSS3, JavaScript, PHP, C#, SQL |
-| **Databases** | MySQL |
+| **Databases** | MySQL, PostgreSQL |
 | **CMS & Tools** | WordPress, Git, GitHub |
 | **Productivity & VA Tools** | Microsoft Excel, Airtable, Google Sheets, Google Docs |
 | **Design & Content** | Canva |
-| **AI Tools** | ChatGPT, Claude AI |
+| **AI Tools** | ChatGPT, Claude AI, GrokAI |
 | **Dev Concepts** | OOP, Role-Based Access Control |
 | **Other** | Basic SEO, Page Builders, Plugin Configuration |
 
