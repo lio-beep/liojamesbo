@@ -117,6 +117,7 @@ My background spans full-stack web development, database-driven systems, WordPre
 - 🦠 **Disease Monitoring** — Record and flag disease incidents with status indicators and location tagging
 - 📄 **Report Generation** — Custom-built reporting module supporting PDF export, print view, and data import/export
 - 🔐 **Role-Based Access Control** — Custom-built authentication system with differentiated access for administrators, field officers, and veterinarians
+- 🎨 **Theme System** — Supports UI theming for customized display preferences across user roles
 
 **My Contributions:**
 - **Solely designed and built the entire map interface** using Leaflet.js — 7,000+ lines of custom JavaScript handling geo-rendering, layer control, and real-time location mapping
