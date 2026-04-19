@@ -4,9 +4,9 @@
 
 ### Junior Web Developer · HTML Content Assistant · BS Information Systems
 
-[![Email](https://img.shields.io/badge/Email-youremail%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lio%20James%20Bo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-liojamesboistech%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liojamesboistech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lio%20James%20Bo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lio-james-bo-5aa127379/)
+[![Resume](https://img.shields.io/badge/Resume-Download%20CV-4CAF50?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dDw4uG1cDL-VWZnOrpr7k_xI4GTeqGFB/view?usp=sharing)
 [![Location](https://img.shields.io/badge/Location-Philippines-FFD700?style=flat&logo=google-maps&logoColor=white)](#)
 
 </div>
@@ -66,9 +66,9 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 > *Documented via screenshots. System was developed and tested in a local XAMPP environment. Source code is not publicly available.*
 
-| Admin Dashboard | Tenant Records | Payment Module |
+| Admin Dashboard | Tenant Dashboard | Payment Module |
 |---|---|---|
-| ![Dashboard](https://via.placeholder.com/280x180?text=Admin+Dashboard) | ![Tenants](https://via.placeholder.com/280x180?text=Tenant+Records) | ![Payments](https://via.placeholder.com/280x180?text=Payment+Tracking) |
+| ![Dashboard](./screenshots/dashboard.png) | ![Tenants](./screenshots/tenantdb.png) | ![Payments](./screenshots/payment.png) |
 
 ---
 
@@ -94,9 +94,9 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 > *Documented via screenshots. Source code is not publicly available.*
 
-| Main Dashboard | Tenant Form | Payment Log |
+| Tenant Form | Services Form | In the making |
 |---|---|---|
-| ![Main](https://via.placeholder.com/280x180?text=Main+Dashboard) | ![Tenant](https://via.placeholder.com/280x180?text=Tenant+Form) | ![Payment](https://via.placeholder.com/280x180?text=Payment+Log) |
+| ![Tenant](./screenshots/registration.png) | ![Services](./screenshots/services.png) | ![In Progress](./screenshots/inprogress.png) |
 
 ---
 
@@ -125,7 +125,7 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 | Farm Map View | Vaccination Records | Report Module |
 |---|---|---|
-| ![Map](https://via.placeholder.com/280x180?text=Farm+Map+View) | ![Vaccination](https://via.placeholder.com/280x180?text=Vaccination+Records) | ![Reports](https://via.placeholder.com/280x180?text=Report+Generation) |
+| ![Map](./screenshots/map.png) | ![Vaccination](./screenshots/vaccination.png) | ![Reports](./screenshots/reports.png) |
 
 ---
 
@@ -153,24 +153,23 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 | Online Store Homepage | Product Page | Resume Site |
 |---|---|---|
-| ![Store](https://via.placeholder.com/280x180?text=Online+Store) | ![Product](https://via.placeholder.com/280x180?text=Product+Page) | ![Resume](https://via.placeholder.com/280x180?text=Resume+Site) |
+| ![Store](./screenshots/onlinestorehomepage.png) | ![Header](./screenshots/header.png) | ![Resume](./screenshots/resume.png) |
 
 ---
 
 ## 💼 Professional Experience
 
-### HTML Content Assistant
-`Freelance / Part-Time` | Remote
+### Virtual Assistant · Social Media Content Creator
+`Freelance` | Remote | 2025
 
-- Write and format HTML content for web pages ensuring semantic structure and clean markup
-- Apply basic SEO practices including proper heading hierarchy, meta tags, and keyword placement
-- Review and edit web content for consistency, readability, and formatting standards
-- Collaborate with clients to deliver content-ready pages aligned with design specifications
+- Created and scheduled social media content across platforms to maintain consistent brand presence
+- Assisted clients with day-to-day administrative and digital tasks remotely
+- Produced written and visual content aligned with client branding and audience engagement goals
 
 ---
 
 ### Internship / On-the-Job Training
-`[Agency / Organization Name]` · `[City, Philippines]` · `[Month Year – Month Year]`
+`Provincial Information Technology Office` · Bulacan, Philippines · August 2025 – November 2025
 
 - Contributed to the development of a **Geospatial Farm Monitoring & Status Mapping System** used by veterinary and agricultural field officers
 - Worked on front-end UI components, database queries, and map integration features
@@ -179,10 +178,19 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 ---
 
+### Service Crew
+`Chowking` · Philippines · 2023
+
+- Delivered consistent customer service in a fast-paced food service environment
+- Handled customer orders, cash transactions, and maintained food preparation standards
+- Developed teamwork, time management, and communication skills
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Science in Information Systems**
-`[University Name]` · Philippines · `[Year Graduated]`
+`Bulacan Polytechnic College` · Bulacan, Philippines · 2026
 
 - Relevant coursework: Web Development, Database Management, Systems Analysis & Design, OOP, Software Engineering
 
@@ -192,9 +200,9 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 <div align="center">
 
-![Lio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Lio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lio-beep&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lio-beep&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -208,11 +216,11 @@ I'm open to junior developer roles, freelance projects, and collaboration opport
 
 | Channel | Details |
 |---|---|
-| 📧 Email | [youremail@gmail.com](mailto:youremail@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) |
-| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
+| 📧 Email | [liojamesboistech@gmail.com](mailto:liojamesboistech@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/lio-james-bo](https://www.linkedin.com/in/lio-james-bo-5aa127379/) |
+| 📄 Resume | [Download CV](https://drive.google.com/file/d/1dDw4uG1cDL-VWZnOrpr7k_xI4GTeqGFB/view?usp=sharing) |
 | 📍 Location | Philippines · Open to Remote |
-
+| 🗣️ Languages | Filipino, English |
 ---
 
 <div align="center">
