@@ -2,12 +2,13 @@
 
 # 👋 Hi, I'm Lio James Bo
 
-### Junior Web Developer · HTML Content Assistant · BS Information Systems
+### Aspiring Software Developer · Virtual Assistant · Content Creator
 
 [![Email](https://img.shields.io/badge/Email-liojamesboistech%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liojamesboistech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lio%20James%20Bo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lio-james-bo-5aa127379/)
 [![Resume](https://img.shields.io/badge/Resume-Download%20CV-4CAF50?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dDw4uG1cDL-VWZnOrpr7k_xI4GTeqGFB/view?usp=sharing)
 [![Location](https://img.shields.io/badge/Location-Philippines-FFD700?style=flat&logo=google-maps&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-10b981?style=flat&logo=google-chrome&logoColor=white)](https://liojamesbo.pythonanywhere.com)
 
 </div>
 
@@ -213,7 +214,7 @@ My background spans full-stack web development, database-driven systems, WordPre
 
 </div>
 
-> 💡 *Most of my project work was developed in private or offline environments. Documentation and screenshots are available upon request.*
+> 💡 *Most of my project work was developed in private or offline environments. Visit my **[portfolio site](https://liojamesbo.pythonanywhere.com)** to see detailed project breakdowns.*
 
 ---
 
@@ -228,6 +229,7 @@ I'm open to junior developer roles, freelance projects, and collaboration opport
 | 📄 Resume | [Download CV](https://drive.google.com/file/d/1dDw4uG1cDL-VWZnOrpr7k_xI4GTeqGFB/view?usp=sharing) |
 | 📍 Location | Philippines · Open to Remote |
 | 🗣️ Languages | Filipino, English |
+| 🌐 Portfolio | [liojamesbo.pythonanywhere.com](https://liojamesbo.pythonanywhere.com) |
 ---
 
 <div align="center">
